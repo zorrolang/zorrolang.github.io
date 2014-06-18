@@ -1,0 +1,4 @@
+# needed by jekyll
+_site/
+_config.yml
+_github-pages-gem/
