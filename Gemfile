@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "activesupport", "2.1.0"
+gem "activesupport", "4.1.11"
 gem "RedCloth"
 gem "open4"
 gem "rdiscount"
